@@ -106,15 +106,3 @@ python cyberdoss.py
 ## License
 
 MIT License - See [LICENSE](LICENSE) file for details
-
-```
-
-This README provides comprehensive documentation while emphasizing ethical use. It includes:
-- Clear feature highlights
-- Installation/usage instructions
-- GUI component explanations
-- Configuration reference table
-- Strong ethical warnings
-- License information
-
-Would you like me to add any specific details or modify any sections?
